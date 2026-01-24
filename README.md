@@ -17,9 +17,6 @@ introduce new experimental data, clinical claims, or diagnostic assertions.
   Figures generated from the analysis, including differential expression and
   variance comparisons.
 
-- `manuscript/`  
-  PDF manuscript describing the analysis, results, and interpretation.
-
 - `data/`  
   Information on the publicly available datasets used.
 
