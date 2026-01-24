@@ -7,16 +7,6 @@ molecular heterogeneity in allergic rhinitis.
 The work is intentionally exploratory and hypothesis-generating. It does not
 introduce new experimental data, clinical claims, or diagnostic assertions.
 
-## Contents
-
-- `analysis/`  
-  Jupyter notebook used for data loading, preprocessing, statistical testing,
-  and visualization.
-
-- `figures/`  
-  Figures generated from the analysis, including differential expression and
-  variance comparisons.
-
 ## Pathway-level summary
 | Pathway                                           | Direction of aggregate signal                                              | Evidence derived from analysis                                                                                                                                                                |
 | ------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,9 +15,6 @@ introduce new experimental data, clinical claims, or diagnostic assertions.
 | Th1/Th2 differentiation                           | Predominantly positive log2 fold-change                                    | Probes associated with Th1/Th2 differentiation pathways demonstrated nominal differential expression consistent with immune polarization patterns                                             |
 | Epithelial adhesion and barrier-related processes | Mixed directionality across probes                                         | Probes mapping to epithelial adhesion and barrier maintenance genes showed both positive and negative log2 fold-changes, with no consistent directional bias                                  |
 | Cell cycle (negative control)                     | No enrichment detected                                                     | Probes mapping to cell-cycle-related pathways did not show clustering of nominal significance beyond background levels                                                                        |
-
-- `data/`  
-  Information on the publicly available datasets used.
 
 ## Data Source
 
