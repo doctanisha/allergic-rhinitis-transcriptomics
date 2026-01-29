@@ -22,7 +22,13 @@ Gene Expression Omnibus (GEO):
 GSE19187  
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19187
 
+## Data protection and privacy
+
 All data used are publicly available and de-identified.
+This repository analyzes publicly available, de-identified transcriptomic
+data from NCBI GEO. No protected health information or personal data are
+included. HIPAA and GDPR regulations do not apply to this work.
+
 
 ## Scope and Limitations
 
